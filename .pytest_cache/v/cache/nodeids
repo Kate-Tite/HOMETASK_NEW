@@ -1,0 +1,7 @@
+[
+  "Tests/test_utils.py::test_filter_sort",
+  "Tests/test_utils.py::test_format_date",
+  "Tests/test_utils.py::test_formatted_data",
+  "Tests/test_utils.py::test_load_data",
+  "Tests/test_utils.py::test_mask_card"
+]
